@@ -176,3 +176,4 @@ type Connector interface {
 ```
 
 All plugins available in [store folder](/cli/receiver/storage/store).
+
